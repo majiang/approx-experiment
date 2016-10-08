@@ -1,0 +1,13 @@
+{
+	"name": "approx-experiment",
+	"authors": [
+		"Ryuichi OHORI"
+	],
+	"dependencies": {
+		"digitalnet": "~>0.5.0",
+		"wafom": "~>0.2.1"
+	},
+	"description": "Experiment for a paper",
+	"copyright": "Copyright (c) 2016, Ryuichi OHORI",
+	"license": "MIT"
+}

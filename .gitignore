@@ -1,0 +1,4 @@
+.dub
+docs.json
+dub.selections.json
+*.exe
